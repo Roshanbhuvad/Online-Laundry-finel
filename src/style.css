@@ -1,0 +1,81 @@
+.register{
+	background:url("./uploads.jpg");
+	height: 612px;
+	overflow: hidden;
+}
+.regform{
+	background:black;
+	position:relative;
+	text-align:center;
+	width:500px;
+	height:550px;
+	top:40px;
+	left:440px;
+	color:white;
+	opacity:.8;
+	padding:25px;
+	border-radius:20px;
+}
+.regtform{
+	background:black;
+	position:relative;
+	text-align:center;
+	width:550px;
+	height:300px;
+	top:80px;
+	left:440px;
+	color:white;
+	opacity:.8;
+	padding:25px;
+	border-radius:20px;
+}
+.reghead{
+  text-align:center;
+  font-weight:bold;
+  position:relative;
+  background:black;
+  padding:4px;
+  color:white;
+}
+.rlabel{
+	width:200px;
+	padding:5px;
+}
+.rinput{
+	position:relative;
+	right:10px;
+}
+.rimage{
+	bottom:20px;
+	padding:10px;
+}
+.rbutton{
+	padding:10px;
+}
+.rgbutton{
+	padding:3px;
+	position:relative;
+	top:35px;
+}
+.login{
+	background: url('log.jpg');
+	height:613px;
+	overflow:hidden;
+}
+.logform{
+	background:black;
+	border-radius:20px;
+	position:relative;
+	text-align:center;
+	width:500px;
+	height:250px;
+	top:130px;
+	left:440px;
+	color:white;
+	opacity:.9;
+	padding:25px;
+
+}
+.rglabel{
+	padding:10px;
+}
